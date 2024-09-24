@@ -7,7 +7,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #fae5d3;
+    background-color: #fff;
 
     /* Because we want header to be sticky later  */
     height:9.6rem;
@@ -108,7 +108,7 @@
     grid-template-columns: 1fr 1fr;
     gap:9.6rem;
     align-items: center;
-    /* background-color: #fae5d3; */
+    background-color: #fae5d3;
     
 }
 
@@ -117,6 +117,7 @@
     font-size: 2rem;
     line-height: 1.6;
     margin-bottom :4.8rem;
+    
 }
 
 .hero-img{
